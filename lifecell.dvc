@@ -1,0 +1,6 @@
+outs:
+- md5: 9e8ac896010a37c54aa8a93407d0268f.dir
+  size: 2501932583
+  nfiles: 5
+  hash: md5
+  path: lifecell
