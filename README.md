@@ -24,6 +24,6 @@
 	```
 4. Pull dataset with dvc:
    	```
-    	dvc pull
+    dvc pull
 	```
 5. Run first cell in train.ipynb to install detectron2 for notebooks
