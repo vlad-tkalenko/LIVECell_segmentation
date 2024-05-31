@@ -22,12 +22,8 @@
 	```
 	pip install -r requirements.txt
 	```
-4. Install detectron2:
-	```
-	git clone https://github.com/facebookresearch/detectron2.git
-	python -m pip install -e detectron2
-  	```
-5. Pull dataset with dvc:
+4. Pull dataset with dvc:
    	```
-    dvc pull
+    	dvc pull
 	```
+5. Run first cell in train.ipynb to install detectron2 for notebooks
