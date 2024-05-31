@@ -1,0 +1,7 @@
+torch
+torchvision
+opencv-python
+matplotlib
+setuptools==69.5.1
+dvc
+dvc-gdrive
