@@ -1,4 +1,5 @@
 # LIVECell_segmentation
+![example of result](result.png)
 ## Structure
 
 * train.ipynb - contains code for training model
