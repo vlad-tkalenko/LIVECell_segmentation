@@ -1,0 +1,6 @@
+TRAIN_VAL_IMAGES = 'lifecell/images/livecell_train_val_images'
+TEST_IMAGES = 'lifecell/images/livecell_test_images'
+TRAIN_COCO_ANNOTATIONS = 'lifecell/livecell_coco_train.json'
+VAL_COCO_ANNOTATIONS = 'lifecell/livecell_coco_val.json'
+TEST_COCO_ANNOTATIONS = 'lifecell/livecell_coco_test.json'
+OUTPUT_DIR = 'output'
