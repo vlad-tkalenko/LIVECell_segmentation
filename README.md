@@ -21,5 +21,5 @@
   	```
 5. Pull dataset with dvc:
    	```
-    	dvc pull
+    dvc pull
 	```
