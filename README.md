@@ -26,4 +26,4 @@
    	```
     dvc pull
 	```
-5. Run first cell in train.ipynb to install detectron2 for notebooks
+5. First cell of train.ipynb or inference.ipynb notebooks install detectron2
