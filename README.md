@@ -1,4 +1,11 @@
 # LIVECell_segmentation
+## Structure
+
+* train.ipynb - contains code for training model
+
+- inference.ipynb - contains code for validation and metrics
+
++ utils.py - contains some variables
 ## Installation
 1. Create your new environment:
 	```
