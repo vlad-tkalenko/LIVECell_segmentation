@@ -22,7 +22,7 @@
 	```
 	pip install -r requirements.txt
 	```
-4. Set up dvc using [this instructions](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive#using-a-custom-google-cloud-project-recommended)
+4. To use dvc with google services, you need to set up your Google Cloud Project. Follow [this instructions](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive#using-a-custom-google-cloud-project-recommended) to do this.
 5. Pull dataset with dvc:
    	```
     dvc pull
