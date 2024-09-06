@@ -22,7 +22,8 @@
 	```
 	pip install -r requirements.txt
 	```
-4. Pull dataset with dvc:
+4. Set up dvc using [this instructions](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive#using-a-custom-google-cloud-project-recommended)
+5. Pull dataset with dvc:
    	```
     dvc pull
 	```
